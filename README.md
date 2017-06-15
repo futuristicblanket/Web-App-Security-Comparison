@@ -4,15 +4,13 @@ This document compares the four major free web app security tools. This document
 
 ### The Test
 
-To test the capabillity of each tool we had three web apps with similar functionality, one had a python backend, one had a php backend and the other one had a node.js backend.
+Each tool was tested using the [OWASP NodeGoat project](https://github.com/OWASP/NodeGoat).
 
 ### Table of comaprison
 
 | Tool | Licence | Pros | Cons | Common Vulnerabilities Detected | 
 | ---- | --- | ---------- | ---------- | ---------- |
 | [Golismero](http://golismero-project.com/) | [GPL v2.0](https://github.com/golismero/golismero/blob/master/LICENSE) |
-| [Web Cookies](https://webcookies.org/) | N/A |
-| [w3af](http://w3af.org/) | [GPL v2.0](https://www.gnu.org/licenses/gpl-2.0.txt) |
 | [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) | [Apache v2.0](https://github.com/zaproxy/zaproxy/blob/develop/LICENSE)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
