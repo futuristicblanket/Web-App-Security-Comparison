@@ -1,7 +1,6 @@
 ---
 title: Web App Security Tools Comparison (WASTC)
 ---
-
 ## Web App Security Tools Comparison
 
 This document compares the four major free web app security tools. This document was last updated in June 2017 and was created as a work experience project.
